@@ -1,0 +1,6 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[tool.dagster]
+module_name = "option_2_emr_in_asset_standalone_spark"
